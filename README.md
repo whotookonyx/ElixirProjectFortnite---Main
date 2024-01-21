@@ -1,5 +1,5 @@
 FortniteGame-Project-Elixir
-This is a Unreal Project for modding a old Version of Fortnite (9.10) which has every c++ class recreated
+This is a Unreal Project for modding a old Version of Fortnite (8.51 and 11.31) which has every c++ class recreated
 
 How To use
 Installation
